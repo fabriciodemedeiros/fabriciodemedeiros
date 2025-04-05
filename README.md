@@ -1,5 +1,5 @@
 <!--
-**fasmedeiros/fasmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fabriciodemedeiros/fabriciodemedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -62,8 +62,8 @@ Ao longo da minha jornada, desenvolvi projetos que refletem meu compromisso com 
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasmedeiros&show_icons=true&theme=radical)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fasmedeiros&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriciodemedeiros&show_icons=true&theme=radical)
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodemedeiros&layout=compact&theme=radical)
 
 ---
 
